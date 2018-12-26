@@ -1,0 +1,13 @@
+Urban Market - Our urban markets dominate the number of rides given as such we do see a correlation of number of drivers. 
+The fares are distributed primarily between $20-$25 regardless of how many drivers are available or the number of riders. 
+This suggest that we do have room to add more drivers to the urban market without worrying about negativaley effecting the average fare.
+
+Suburban Market - Our suburban markets command a hire average fare, primarily between $30-$35 a ride. The number of rides range primarily betwen 15-20 per city. 
+It is apparent that there are less drivers available for these routes and there appears to be little correlation between number of drivers available and the average fare. 
+Again this suggests that we could add more drivers to the suburban market with little worry about negatively effecting our average fare.
+
+Rural Market - The rural market has very little information available for us to make any accurate correlations. The driver count is only about 1% of our total fleet and captures just 5% of our total rides given. 
+The average fares in the rural markets are widley distributed with the majority around $35. 
+
+I would recomend that we focus our resources on growing our urban driver count further until we begin to see a negative correlation between the number of rides given and the average fare.
+ From there we can revisit the new numbers and evaluate if we should use this strategy for the suburban market. The rural market should likely just be abandoned until we have fully grown the urban markets.
